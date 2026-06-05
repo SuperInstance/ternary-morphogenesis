@@ -1,0 +1,7 @@
+[package]
+name = "ternary-morphogenesis"
+version = "0.1.0"
+edition = "2021"
+description = "Turing patterns and morphogenesis in ternary space — reaction-diffusion, spot formation, stripe bifurcation"
+license = "MIT"
+[dependencies]
